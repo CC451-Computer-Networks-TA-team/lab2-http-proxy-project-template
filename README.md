@@ -1,6 +1,6 @@
 # HTTP Proxy Lab skeleton code
 
-Please read the guidelines written as code comments. Validating
+Please read the guidelines written as code comments. Violating
 code policies will considerably damage your deliverables.
 
 Make sure to read the tests to know how to use the classes and run the tests to validate your code.
