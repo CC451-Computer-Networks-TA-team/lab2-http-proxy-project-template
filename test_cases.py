@@ -15,7 +15,6 @@ def lineno():
 def simple_http_parsing_test_case():
     """
     Example test cases, do NOT modify this.
-
     If your code is correct, calling this function will have no effect.
     """
     client_addr = ("127.0.0.1", 9877)
@@ -69,7 +68,7 @@ def simple_http_parsing_test_case():
     #######################################
     case = "Add requested host field."
 
-    correct_value = "www.google.com"
+    correct_value = "www.google.edu"
     actual_value = parsed.requested_host
     assert correct_value == actual_value,\
         f"[Line {lineno()}] [failed] {case}"\
